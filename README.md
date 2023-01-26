@@ -42,7 +42,7 @@ plt.show()
 
 ```
 ## Output
-[univariate](/univariate.png)
+[univar](./univariate.png)
 
 
 ## Result
